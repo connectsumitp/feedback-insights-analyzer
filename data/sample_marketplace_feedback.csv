@@ -1,0 +1,121 @@
+feedback_id,date,user_type,rating,feedback
+FB-0001,2026-04-01,Seller,1,Payment failed twice while renewing my premium plan and I was charged once. This needs attention.
+FB-0002,2026-04-02,Seller,2,"The payment gateway keeps showing an error. Please fix this quickly. Overall, please improve this."
+FB-0003,2026-04-03,Seller,2,I requested a refund but the refund status is unclear.
+FB-0004,2026-04-04,Seller,1,Customer support has not responded to my ticket for three days. I hope this is resolved soon.
+FB-0005,2026-04-05,Buyer,2,Support gave me the same generic reply and did not solve my issue.
+FB-0006,2026-04-06,Seller,2,Most leads are irrelevant and not interested in buying. Thanks.
+FB-0007,2026-04-07,Seller,1,I am receiving spam leads and fake buyer enquiries.
+FB-0008,2026-04-08,Seller,2,The leads do not match the product category I selected.
+FB-0009,2026-04-09,Seller,2,KYC verification is confusing and I cannot complete onboarding. This needs attention.
+FB-0010,2026-04-10,Buyer,2,"I could not sign up because verification keeps failing. Overall, please improve this."
+FB-0011,2026-04-11,Seller,1,The app crashes every time I try to edit my product profile.
+FB-0012,2026-04-12,Buyer,2,Login is not working after the latest update. I hope this is resolved soon.
+FB-0013,2026-04-13,Buyer,2,Search results are not relevant and filters are difficult to use.
+FB-0014,2026-04-14,Seller,2,My listings have poor visibility in search despite complete details. Thanks.
+FB-0015,2026-04-15,Buyer,2,Delivery was delayed and I did not receive a clear shipment update.
+FB-0016,2026-04-16,Buyer,1,The order was delivered late and returning it was difficult.
+FB-0017,2026-04-17,Seller,2,The premium plan is expensive for the quality of leads I receive. This needs attention.
+FB-0018,2026-04-18,Buyer,3,"Pricing is okay but the subscription benefits are not clear. Overall, please improve this."
+FB-0019,2026-04-19,Seller,4,The onboarding was mostly smooth and profile setup was easy.
+FB-0020,2026-04-20,Buyer,5,Very easy to find reliable suppliers and compare options. I hope this is resolved soon.
+FB-0021,2026-04-21,Seller,5,The new dashboard is useful and I can manage enquiries faster.
+FB-0022,2026-04-22,Buyer,4,Search is fast and I found the supplier I needed quickly. Thanks.
+FB-0023,2026-04-23,Seller,4,Support responded fast and helped me update my account.
+FB-0024,2026-04-24,Buyer,5,Payment was smooth and the invoice was available immediately.
+FB-0025,2026-04-25,Seller,3,The app is useful but loading is slow during busy hours. This needs attention.
+FB-0026,2026-04-26,Buyer,3,"The filters are helpful but there should be more options. Overall, please improve this."
+FB-0027,2026-04-27,Seller,3,I need clearer information about renewal before the plan expires.
+FB-0028,2026-04-28,Buyer,3,My account details were updated but it took a few attempts. I hope this is resolved soon.
+FB-0029,2026-04-01,Seller,4,"I received a few good leads this week, much better than before."
+FB-0030,2026-04-02,Buyer,4,Delivery tracking worked well and I got regular updates. Thanks.
+FB-0031,2026-04-03,Seller,1,Payment failed twice while renewing my premium plan and I was charged once.
+FB-0032,2026-04-04,Seller,2,The payment gateway keeps showing an error. Please fix this quickly.
+FB-0033,2026-04-05,Seller,2,I requested a refund but the refund status is unclear. This needs attention.
+FB-0034,2026-04-06,Seller,1,"Customer support has not responded to my ticket for three days. Overall, please improve this."
+FB-0035,2026-04-07,Buyer,2,Support gave me the same generic reply and did not solve my issue.
+FB-0036,2026-04-08,Seller,2,Most leads are irrelevant and not interested in buying. I hope this is resolved soon.
+FB-0037,2026-04-09,Seller,1,I am receiving spam leads and fake buyer enquiries.
+FB-0038,2026-04-10,Seller,2,The leads do not match the product category I selected. Thanks.
+FB-0039,2026-04-11,Seller,2,KYC verification is confusing and I cannot complete onboarding.
+FB-0040,2026-04-12,Buyer,2,I could not sign up because verification keeps failing.
+FB-0041,2026-05-13,Seller,1,The app crashes every time I try to edit my product profile. This needs attention.
+FB-0042,2026-05-14,Buyer,2,"Login is not working after the latest update. Overall, please improve this."
+FB-0043,2026-05-15,Buyer,2,Search results are not relevant and filters are difficult to use.
+FB-0044,2026-05-16,Seller,2,My listings have poor visibility in search despite complete details. I hope this is resolved soon.
+FB-0045,2026-05-17,Buyer,2,Delivery was delayed and I did not receive a clear shipment update.
+FB-0046,2026-05-18,Buyer,1,The order was delivered late and returning it was difficult. Thanks.
+FB-0047,2026-05-19,Seller,2,The premium plan is expensive for the quality of leads I receive.
+FB-0048,2026-05-20,Buyer,3,Pricing is okay but the subscription benefits are not clear.
+FB-0049,2026-05-21,Seller,4,The onboarding was mostly smooth and profile setup was easy. This needs attention.
+FB-0050,2026-05-22,Buyer,5,"Very easy to find reliable suppliers and compare options. Overall, please improve this."
+FB-0051,2026-05-23,Seller,5,The new dashboard is useful and I can manage enquiries faster.
+FB-0052,2026-05-24,Buyer,4,Search is fast and I found the supplier I needed quickly. I hope this is resolved soon.
+FB-0053,2026-05-25,Seller,4,Support responded fast and helped me update my account.
+FB-0054,2026-05-26,Buyer,5,Payment was smooth and the invoice was available immediately. Thanks.
+FB-0055,2026-05-27,Seller,3,The app is useful but loading is slow during busy hours.
+FB-0056,2026-05-28,Buyer,3,The filters are helpful but there should be more options.
+FB-0057,2026-05-01,Seller,3,I need clearer information about renewal before the plan expires. This needs attention.
+FB-0058,2026-05-02,Buyer,3,"My account details were updated but it took a few attempts. Overall, please improve this."
+FB-0059,2026-05-03,Seller,4,"I received a few good leads this week, much better than before."
+FB-0060,2026-05-04,Buyer,4,Delivery tracking worked well and I got regular updates. I hope this is resolved soon.
+FB-0061,2026-05-05,Seller,1,Payment failed twice while renewing my premium plan and I was charged once.
+FB-0062,2026-05-06,Seller,2,The payment gateway keeps showing an error. Please fix this quickly. Thanks.
+FB-0063,2026-05-07,Seller,2,I requested a refund but the refund status is unclear.
+FB-0064,2026-05-08,Seller,1,Customer support has not responded to my ticket for three days.
+FB-0065,2026-05-09,Buyer,2,Support gave me the same generic reply and did not solve my issue. This needs attention.
+FB-0066,2026-05-10,Seller,2,"Most leads are irrelevant and not interested in buying. Overall, please improve this."
+FB-0067,2026-05-11,Seller,1,I am receiving spam leads and fake buyer enquiries.
+FB-0068,2026-05-12,Seller,2,The leads do not match the product category I selected. I hope this is resolved soon.
+FB-0069,2026-05-13,Seller,2,KYC verification is confusing and I cannot complete onboarding.
+FB-0070,2026-05-14,Buyer,2,I could not sign up because verification keeps failing. Thanks.
+FB-0071,2026-05-15,Seller,1,The app crashes every time I try to edit my product profile.
+FB-0072,2026-05-16,Buyer,2,Login is not working after the latest update.
+FB-0073,2026-05-17,Buyer,2,Search results are not relevant and filters are difficult to use. This needs attention.
+FB-0074,2026-05-18,Seller,2,"My listings have poor visibility in search despite complete details. Overall, please improve this."
+FB-0075,2026-05-19,Buyer,2,Delivery was delayed and I did not receive a clear shipment update.
+FB-0076,2026-05-20,Buyer,1,The order was delivered late and returning it was difficult. I hope this is resolved soon.
+FB-0077,2026-05-21,Seller,2,The premium plan is expensive for the quality of leads I receive.
+FB-0078,2026-05-22,Buyer,3,Pricing is okay but the subscription benefits are not clear. Thanks.
+FB-0079,2026-05-23,Seller,4,The onboarding was mostly smooth and profile setup was easy.
+FB-0080,2026-05-24,Buyer,5,Very easy to find reliable suppliers and compare options.
+FB-0081,2026-06-25,Seller,5,The new dashboard is useful and I can manage enquiries faster. This needs attention.
+FB-0082,2026-06-26,Buyer,4,"Search is fast and I found the supplier I needed quickly. Overall, please improve this."
+FB-0083,2026-06-27,Seller,4,Support responded fast and helped me update my account.
+FB-0084,2026-06-28,Buyer,5,Payment was smooth and the invoice was available immediately. I hope this is resolved soon.
+FB-0085,2026-06-01,Seller,3,The app is useful but loading is slow during busy hours.
+FB-0086,2026-06-02,Buyer,3,The filters are helpful but there should be more options. Thanks.
+FB-0087,2026-06-03,Seller,3,I need clearer information about renewal before the plan expires.
+FB-0088,2026-06-04,Buyer,3,My account details were updated but it took a few attempts.
+FB-0089,2026-06-05,Seller,4,"I received a few good leads this week, much better than before. This needs attention."
+FB-0090,2026-06-06,Buyer,4,"Delivery tracking worked well and I got regular updates. Overall, please improve this."
+FB-0091,2026-06-07,Seller,1,Payment failed twice while renewing my premium plan and I was charged once.
+FB-0092,2026-06-08,Seller,2,The payment gateway keeps showing an error. Please fix this quickly. I hope this is resolved soon.
+FB-0093,2026-06-09,Seller,2,I requested a refund but the refund status is unclear.
+FB-0094,2026-06-10,Seller,1,Customer support has not responded to my ticket for three days. Thanks.
+FB-0095,2026-06-11,Buyer,2,Support gave me the same generic reply and did not solve my issue.
+FB-0096,2026-06-12,Seller,2,Most leads are irrelevant and not interested in buying.
+FB-0097,2026-06-13,Seller,1,I am receiving spam leads and fake buyer enquiries. This needs attention.
+FB-0098,2026-06-14,Seller,2,"The leads do not match the product category I selected. Overall, please improve this."
+FB-0099,2026-06-15,Seller,2,KYC verification is confusing and I cannot complete onboarding.
+FB-0100,2026-06-16,Buyer,2,I could not sign up because verification keeps failing. I hope this is resolved soon.
+FB-0101,2026-06-17,Seller,1,The app crashes every time I try to edit my product profile.
+FB-0102,2026-06-18,Buyer,2,Login is not working after the latest update. Thanks.
+FB-0103,2026-06-19,Buyer,2,Search results are not relevant and filters are difficult to use.
+FB-0104,2026-06-20,Seller,2,My listings have poor visibility in search despite complete details.
+FB-0105,2026-06-21,Buyer,2,Delivery was delayed and I did not receive a clear shipment update. This needs attention.
+FB-0106,2026-06-22,Buyer,1,"The order was delivered late and returning it was difficult. Overall, please improve this."
+FB-0107,2026-06-23,Seller,2,The premium plan is expensive for the quality of leads I receive.
+FB-0108,2026-06-24,Buyer,3,Pricing is okay but the subscription benefits are not clear. I hope this is resolved soon.
+FB-0109,2026-06-25,Seller,4,The onboarding was mostly smooth and profile setup was easy.
+FB-0110,2026-06-26,Buyer,5,Very easy to find reliable suppliers and compare options. Thanks.
+FB-0111,2026-06-27,Seller,5,The new dashboard is useful and I can manage enquiries faster.
+FB-0112,2026-06-28,Buyer,4,Search is fast and I found the supplier I needed quickly.
+FB-0113,2026-06-01,Seller,4,Support responded fast and helped me update my account. This needs attention.
+FB-0114,2026-06-02,Buyer,5,"Payment was smooth and the invoice was available immediately. Overall, please improve this."
+FB-0115,2026-06-03,Seller,3,The app is useful but loading is slow during busy hours.
+FB-0116,2026-06-04,Buyer,3,The filters are helpful but there should be more options. I hope this is resolved soon.
+FB-0117,2026-06-05,Seller,3,I need clearer information about renewal before the plan expires.
+FB-0118,2026-06-06,Buyer,3,My account details were updated but it took a few attempts. Thanks.
+FB-0119,2026-06-07,Seller,4,"I received a few good leads this week, much better than before."
+FB-0120,2026-06-08,Buyer,4,Delivery tracking worked well and I got regular updates.
